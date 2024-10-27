@@ -1,5 +1,4 @@
-# projects
-I have included projects I have worked on to this repository. 
+CS210
 
 This upload is Project Three from CS210.
 Your task is to build an item-tracking program for the Corner Grocer, which should incorporate all of their requested functionality.
